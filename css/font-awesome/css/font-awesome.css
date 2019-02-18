@@ -1215,6 +1215,9 @@
 .fa-stack-overflow:before {
   content: "\f16c";
 }
+.fa-stack-overflow:before {
+  content: "\f63f";
+}
 .fa-instagram:before {
   content: "\f16d";
 }
