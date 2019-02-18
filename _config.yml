@@ -11,11 +11,14 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/hongqiaoli/
+  - title: zhihu
+    url: https://www.zhihu.com/people/li-hong-qiao-68/activities
   - title: github
     url: https://github.com/henrylih
-#  - title: medium
-#    url: https://medium.com/@xpharry
-
+  - title: twitter
+    url: https://twitter.com/LiHongqiao
+  - title: medium
+    url: https://medium.com/@lhq.day
 # Google webmaster tools
 google_verify:
 
