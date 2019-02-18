@@ -30,7 +30,9 @@ color:
   secondary-dark: 29455b
   section-tout: eaf1f1
 
-
+address:
+  - line: Mountain View, CA 94043
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
